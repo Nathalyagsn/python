@@ -22,5 +22,4 @@ elif metodoPag == 3:
 
 elif metodoPag == 4:
     print(f'Metodo com juros. Compra no valor de {valor}R$. O produto agora ficou {juros}R$ ')
-
-
+    
